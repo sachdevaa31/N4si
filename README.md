@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachdevaa31" alt="sachdevaa31" /></a> </p>
 
+- 🔭 I’m currently diving deep into **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning** [.](#)
+
+- 💡 I enjoy **solving problems** and applying them to real-world tech challenges **.**
+
+- 💻 I love building projects using the **MERN stack** [.](#)
+
+- 🧠 Constantly practicing and improving my **Data Structures & Algorithms (DSA)** skills [.](#)
+
+- 👨‍💻 All of my projects are available at [sachdevasportfolio.vercel.app](sachdevasportfolio.vercel.app)
+
+- 🚀 I love learning **new technologies** and exploring innovative solutions **.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-sachdeva31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-sachdeva31" height="30" width="40" /></a>
