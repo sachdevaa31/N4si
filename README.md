@@ -12,7 +12,7 @@
 
 - 🧠 Constantly practicing and improving my **Data Structures & Algorithms (DSA)** skills [.](#)
 
-- 👨‍💻 All of my projects are available at [sachdevasportfolio.vercel.app]([sachdevasportfolio.vercel.app](https://github.com/sachdevaa31?tab=repositories))
+- 👨‍💻 All of my projects are available at [REPO](https://github.com/sachdevaa31?tab=repositories))
 
 - 🚀 I love learning **new technologies** and exploring innovative solutions **.**
 
